@@ -1,0 +1,29 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "abstract/_function.scss",
+        "abstract/_mixin.scss",
+        "abstract/_variable.scss",
+        "base/_animation.scss",
+        "base/_base.scss",
+        "base/_typography.scss",
+        "base/_utilities.scss",
+        "component/_bg-video.scss",
+        "component/_buttons.scss",
+        "component/_card.scss",
+        "component/_composition.scss",
+        "component/_feature-box.scss",
+        "component/_form.scss",
+        "component/_popup.scss",
+        "component/_story.scss",
+        "layout/_footer.scss",
+        "layout/_grid.scss",
+        "layout/_header.scss",
+        "layout/_navigation.scss",
+        "pages/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
